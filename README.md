@@ -70,7 +70,7 @@ in slice.js
 
         export const apiSlice=createSlice({
 
-    name:"api",
+    name:"users",
     initialState:{[], isPending: false, isError:false, errorMessage:"" },
     reducers:{},
     extraReducers:{
