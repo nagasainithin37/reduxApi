@@ -44,6 +44,8 @@ npm install @reduxjs/toolkit react-redux
     //export reducers
     export default  apiSlice.reducer
 
+//Add this slice in store
+
 ## Step 5:
 
 ### use CreateAsyncThunk
