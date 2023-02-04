@@ -35,7 +35,7 @@ npm install @reduxjs/toolkit react-redux
 
     export const apiSlice=createSlice({
 
-    name:"api",
+    name:"users",
     initialState:{[], isPending: false, isError:false, errorMessage:"" },
     reducers:{},
     extraReducers:{}
